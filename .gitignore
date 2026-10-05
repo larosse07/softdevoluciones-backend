@@ -1,0 +1,11 @@
+target/
+uploads/
+*.log
+startup-error.txt
+startup-error.tx
+.idea/
+.vscode/
+*.iml
+.env
+.env.*
+!.env.example
